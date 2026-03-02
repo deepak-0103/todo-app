@@ -1,4 +1,4 @@
-#  To-Do List Application
+# To-Do List Application
 
 A simple and interactive To-Do List application built using **React (Vite)**.  
 This application allows users to add, edit, delete, and mark tasks as completed.
